@@ -23,4 +23,4 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
-Thank you to OpenAI for providing the inspiration and tools for building this project.
+Thank you to Gemini for providing the inspiration and tools for building this project.
